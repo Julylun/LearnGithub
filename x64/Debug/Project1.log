@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Working\University\Coding\C++\SDL2\Project1\Project1\main.cpp(36,2): error C2664: 'bool loadMedia(char [])': cannot convert argument 1 from 'const char [23]' to 'char []'
+D:\Working\University\Coding\C++\SDL2\Project1\Project1\main.cpp(36,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+D:\Working\University\Coding\C++\SDL2\Project1\Project1\main.cpp(10,6): message : see declaration of 'loadMedia'
+D:\Working\University\Coding\C++\SDL2\Project1\Project1\main.cpp(36,2): message : while trying to match the argument list '(const char [23])'
